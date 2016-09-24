@@ -7,7 +7,7 @@
 * [Оформление текста](oformlenie-teksta/index.md)
 * [Эффект боке в Corel Draw](effekt-boke-v-corel-draw/index.md)
 * [Декоративный текст в CorelDRAW X3](dekorativnyy-tekst-v-coreldraw-x3/index.md)
-* [Каустика - на примере "граната"](kaustika---na-primere-"granata"/index.md)
+* [Каустика - на примере "граната"](kaustika-na-primere-granata/index.md)
 * [Абстрактно-геометрический фон в CorelDRAW](abstraktno-geometricheskiy-fon-v-coreldraw/index.md)
 * [Растительный орнамент](rastitelnyy-ornament/index.md)
 * [Искажение текста](iskazhenie-teksta/index.md)
